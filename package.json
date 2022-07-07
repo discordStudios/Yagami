@@ -10,7 +10,7 @@
     "ffmpeg-binaries": "^4.0.0",
     "google": "^2.1.0",
     "kitsu.js": "^2.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "node-opus": "^0.3.2",
     "opusscript": "^0.0.7",
